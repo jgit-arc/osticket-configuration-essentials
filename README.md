@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/0KdiDRX.png" />
 </p>
 
 # osTicket - Configuration Essentials
@@ -13,7 +13,7 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 ## Accessing osTicket
 
 <p>
-<img src="https://i.ibb.co/XtM1X7K/osticket-login.png"/>
+<img src="https://i.imgur.com/p7433G3.png"/>
 </p>
 
 osTicket has two URLs you will use frequently:
@@ -27,8 +27,8 @@ The admin/analyst login is where all of the setup and configuration happens. The
 ## 2. Agent Panel vs Admin Panel
 
 <p>
-<img src="https://i.ibb.co/swLtV9t/agent-top.png" alt="Agent Panel"/>
-<img src="https://i.ibb.co/sqH5wBZ/admin-bottom.png" alt="Admin Panel"/>
+<img src="https://i.imgur.com/JHMKsFw.png" />
+<img src="https://i.imgur.com/bCsTpgT.png" />
 </p>
 
 If you have not done so already, go to the admin login and sign in as an admin using the credentials you created from the previous walkthrough. While logged in as an admin, you have access to two panels: **Agent Panel** and **Admin Panel**. 
@@ -44,7 +44,7 @@ To determine which panel you are on, look at the toggle in the top-right corner:
 ## 3. Configure Roles
 
 <p>
-<img src="https://i.ibb.co/hVjNCmd/admin-roles.png"/>
+<img src="https://i.imgur.com/SatJE2o.png"/>
 </p>
 
 From the **Admin Panel**, click **Agents**, then click **Roles**. By default, osTicket includes varying levels of role access. These can be modified, or you can create your own.
@@ -62,7 +62,7 @@ For example, the "Expanded Access" role allows users to do everything except del
 ## 4. Configure Departments
 
 <p>
-<img src="https://i.ibb.co/XtM1X7K/osticket-login.png"/>
+<img src="https://i.imgur.com/YKZQAPf.png"/>
 </p>
 
 From the **Admin Panel**, click **Agents**, then click **Departments**.
@@ -78,7 +78,7 @@ From the **Admin Panel**, click **Agents**, then click **Departments**.
 ## 5. Configure Teams
 
 <p>
-<img src="https://i.ibb.co/XtM1X7K/osticket-login.png"/>
+<img src="https://i.imgur.com/nNXihjE.png"/>
 </p>
 
 Teams allow users from different departments to be grouped. For example, one team may handle billing while another manages online support.
@@ -95,8 +95,8 @@ Teams allow users from different departments to be grouped. For example, one tea
 ## 6. Configure Agents
 
 <p>
-<img src="https://i.ibb.co/z8rbwxS/add-agent-1.png" alt="Adding Agent"/>
-<img src="https://i.ibb.co/SNw523n/add-agent-2.png" alt="Adding Agent Details"/>
+<img src="https://i.imgur.com/c0bcea0.png" />
+<img src="https://i.imgur.com/J3QASPM.png" />
 </p>
 
 Agents are users that help resolve tickets. 
@@ -122,7 +122,7 @@ Agents are users that help resolve tickets.
 ## 7. Configure Users
 
 <p>
-<img src="https://i.ibb.co/2FJnTXT/add-user.png"/>
+<img src="https://i.imgur.com/O5JaGq7.png"/>
 </p>
 
 Users are the customers who submit tickets.
@@ -139,7 +139,7 @@ Users are the customers who submit tickets.
 ## 8. Configure Service Level Agreements (SLAs)
 
 <p>
-<img src="https://i.ibb.co/PxtCnpF/severity-levels.png" />
+<img src="https://i.imgur.com/9PuudvQ.png" />
 </p>
 
 SLAs prioritize tasks based on urgency.
@@ -158,7 +158,7 @@ SLAs prioritize tasks based on urgency.
 ## 9. Configure Help Topics
 
 <p>
-<img src="https://i.ibb.co/D4BFxFR/help-topics.png"/>
+<img src="https://i.imgur.com/aE8hhFe.png"/>
 </p>
 
 Help Topics categorize tickets for better management.
